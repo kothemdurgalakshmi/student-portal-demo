@@ -1,0 +1,6 @@
+name:durga lakshmi
+course:Bca
+email:kothem2@gmail.com
+phone:8919770055
+suc:2358250058
+roolno:32
